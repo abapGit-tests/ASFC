@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_ASFC" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <AIND_STR1>
+    <AIND_STR1>
+     <ARCHINDEX>ZABAPGIT_TEST</ARCHINDEX>
+     <ITYPE>S</ITYPE>
+     <OTYP>O</OTYP>
+     <OBJECT>AS_TEST</OBJECT>
+     <FILEFIELD>K</FILEFIELD>
+     <OFFSFIELD>D</OFFSFIELD>
+    </AIND_STR1>
+   </AIND_STR1>
+   <AIND_STR1T>
+    <AIND_STR1T>
+     <SPRAS>E</SPRAS>
+     <ARCHINDEX>ZABAPGIT_TEST</ARCHINDEX>
+     <ITYPE>S</ITYPE>
+     <TEXT>name</TEXT>
+    </AIND_STR1T>
+   </AIND_STR1T>
+   <AIND_STR3>
+    <AIND_STR3>
+     <ARCHINDEX>ZABAPGIT_TEST</ARCHINDEX>
+     <ITYPE>S</ITYPE>
+     <FLDNR>0010</FLDNR>
+     <FIELDNAME>GUID16</FIELDNAME>
+     <KEYFLAG>X</KEYFLAG>
+     <REFTAB>DDMTT</REFTAB>
+     <REFFIELD>UUID</REFFIELD>
+    </AIND_STR3>
+    <AIND_STR3>
+     <ARCHINDEX>ZABAPGIT_TEST</ARCHINDEX>
+     <ITYPE>S</ITYPE>
+     <FLDNR>0100</FLDNR>
+     <FIELDNAME>INTFELD</FIELDNAME>
+     <REFTAB>SASTEST001</REFTAB>
+     <REFFIELD>INTFELD</REFFIELD>
+    </AIND_STR3>
+   </AIND_STR3>
+   <AIND_STR6>
+    <AIND_STR6>
+     <SKEY>ZABAPGIT_TEST</SKEY>
+     <FLDNR>0010</FLDNR>
+     <CHOOSEABLE>X</CHOOSEABLE>
+    </AIND_STR6>
+    <AIND_STR6>
+     <SKEY>ZABAPGIT_TEST</SKEY>
+     <FLDNR>0100</FLDNR>
+     <CHOOSEABLE>X</CHOOSEABLE>
+    </AIND_STR6>
+   </AIND_STR6>
+  </asx:values>
+ </asx:abap>
+</abapGit>
